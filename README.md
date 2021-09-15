@@ -7,5 +7,6 @@
 * [Saving your changes](commiting.md)
 * [Publishing your changes](pushing.md)
 
+*I do not own the images used in this guide.*
 
 
